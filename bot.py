@@ -3,7 +3,7 @@ from time import sleep
 from telebot.async_telebot import AsyncTeleBot
 from telebot import types
 from requests.structures import CaseInsensitiveDict
-token = "5555959023:AAGAB3clPrA"
+token = "5356497581:AAEQiSF8eoFOHwm2o_6gWuDHMWuZKZw3di8"
 
 bot = telebot.TeleBot(token)
 
